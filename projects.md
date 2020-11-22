@@ -22,7 +22,6 @@
   This project was created to utilize database creation and management abilities using a MySql database hosted with MariaDB. The project contains an html, handlebars,   
   and javascript-backed frontend application backed by a relational database that implments various CRUD queries and data management.  
 
-3. 
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/michael-friesen-99201/)

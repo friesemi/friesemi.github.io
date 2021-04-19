@@ -2,7 +2,7 @@
 ## College Capstone Project
 ### Where's My Stuff Inventory System  
 ### **Description**  
-  [Repo](https://github.com/friesemi/Where-s_My_Stuff)  
+  [Repo](https://github.com/friesemi/Capstone-Inventory-App?organization=friesemi&organization=friesemi)  
   [Project Site](http://wms.beavdms.com:3000/)
   
   This project is my senior capstone project and is in cooperation with two other team members. Our goal is to create an inventory management system that allows users 

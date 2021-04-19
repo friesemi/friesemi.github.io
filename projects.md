@@ -4,6 +4,7 @@
 ### **Description**  
   [Repo](https://github.com/friesemi/Where-s_My_Stuff)  
   [Project Site](http://wms.beavdms.com:3000/)
+  
   This project is my senior capstone project and is in cooperation with two other team members. Our goal is to create an inventory management system that allows users 
   to add to and modify their various inventories of parts/tools/inventory using either text or voice commands. The project entails creating a MySql database to house
   inventory items, a backend API application to query the database, a frontend application to show the results, and a voice processing software to handle voice commands.

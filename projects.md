@@ -13,10 +13,10 @@
   - Created MySql database
   - Created Express backend application to host APIs to access DB
   - Hosted database, backend and frontend applications on Amazon Web Services
+  - Built in export functionality for database export to a CSV file
 
 **Other Contributions**
   - Built out Categories page on website
-  - Built in export functionality for database export to a CSV file
   - Connected Google Actions application to database with webhook calls
   - Built out several Google Action conversation trees
 
